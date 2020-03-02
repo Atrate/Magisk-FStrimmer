@@ -5,7 +5,7 @@ If you're on GitHub and want to create a Pull/Merge Request, head to this projec
 ## Description
 
 A Magisk module designed to help you care for your flash memory using [fstrim](https://linux.die.net/man/8/fstrim).
-It does so by executing fstrim every so often (customizable) on `/data` , `/cache` , / and `/system` (for non SAR devices).
+It does so by executing fstrim every so often (customizable) on `/data` , `/cache` , `/` and `/system` (for non SAR devices).
 
 ### Roadmap
 

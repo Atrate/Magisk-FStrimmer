@@ -9,7 +9,7 @@ It does so by executing fstrim every so often (customizable) on `/data` , `/cach
 
 ### Roadmap
 
-* [ ] POC release (fstrim on boot)
+* [X] POC release (fstrim on boot)
 * [ ] Ftrim every X hours
 * [ ] Allow customizing the amount of time in between fstrims
 
@@ -29,5 +29,3 @@ topjohnwu for magisk
 
 ## License
 This project is licensed under the [GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html).
-
-// TODO

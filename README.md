@@ -13,13 +13,10 @@ This module is mostly designed for older devices, since Android Pie and later ve
 1. Download the module from the releases
 2. Flash the module through Magisk Manager or TWRP/OrangeFox
 
-### Grab the newest release on [GitLab](https://gitlab.com/Atrate/magisk-fstrimmer/releases) or [GitHub](https://github.com/Atrate/magisk-fstrimmer/releases) //TODO
+### Grab the newest release on [GitLab](https://gitlab.com/Atrate/magisk-fstrimmer/releases) or [GitHub](https://github.com/Atrate/magisk-fstrimmer/releases)
 
 ## Credits
 topjohnwu for magisk
-
-## [Changelog](./CHANGELOG) //TODO
-
 
 ## License
 This project is licensed under the [GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html).

@@ -13,7 +13,7 @@ This module is mostly designed for older devices, since Android Pie and later ve
 1. Download the module from the releases
 2. Flash the module through Magisk Manager or TWRP/OrangeFox
 
-### Grab the newest release on [GitLab](https://gitlab.com/Atrate/magisk-frequent-fstrimmer/releases) or [GitHub](https://github.com/Atrate/magisk-frequent-fstrimmer/releases)
+### Grab the newest release on [GitLab](https://gitlab.com/Atrate/magisk-frequent-fstrimmer/releases) or [GitHub](https://github.com/Atrate/magisk-fstrimmer/releases)
 
 ## Credits
 topjohnwu for magisk

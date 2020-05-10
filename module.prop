@@ -4,5 +4,5 @@ version=v0.0.1
 versionCode=1
 author=Atrate
 description=A Magisk module designed to to run fstrim on flash memories automatically
-support=https://gitlab.com/Atrate/magisk-fstrimmer
+support=https://gitlab.com/Atrate/magisk-frequent-fstrimmer
 minMagisk=2000

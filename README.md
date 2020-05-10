@@ -1,6 +1,6 @@
-# Magisk FStrimmer [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# Magisk Frequent FStrimmer [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-If you're on GitHub and want to create a Pull/Merge Request, head to this project's [GitLab repo.](https://gitlab.com/Atrate/magisk-fstrimmer/)
+If you're on GitHub and want to create a Pull/Merge Request, head to this project's [GitLab repo.](https://gitlab.com/Atrate/magisk-frequent-fstrimmer/)
 
 ## Description
 
@@ -13,7 +13,7 @@ This module is mostly designed for older devices, since Android Pie and later ve
 1. Download the module from the releases
 2. Flash the module through Magisk Manager or TWRP/OrangeFox
 
-### Grab the newest release on [GitLab](https://gitlab.com/Atrate/magisk-fstrimmer/releases) or [GitHub](https://github.com/Atrate/magisk-fstrimmer/releases)
+### Grab the newest release on [GitLab](https://gitlab.com/Atrate/magisk-frequent-fstrimmer/releases) or [GitHub](https://github.com/Atrate/magisk-frequent-fstrimmer/releases)
 
 ## Credits
 topjohnwu for magisk

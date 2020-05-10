@@ -1,5 +1,5 @@
-id=magisk-fstrimmer
-name=Magisk FStrimmer
+id=magisk-frequent-fstrimmer
+name=Magisk Frequent FStrimmer (MFF)
 version=v0.0.1
 versionCode=1
 author=Atrate
